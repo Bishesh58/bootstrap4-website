@@ -25,3 +25,7 @@ body{
     background-attachment: fixed;
     */
 }
+
+#filler, #progress{
+    background:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9)), url(../img/bg-co.jpg)center/cover no-repeat fixed;
+}
